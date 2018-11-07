@@ -1,0 +1,131 @@
+c:\users\alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\kit_from_firefox.xnb
+c:\users\alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.dll
+c:\users\alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+c:\users\alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+c:\users\alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+c:\users\alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+c:\users\alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.xml
+c:\users\alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+c:\users\alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+c:\users\alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+c:\users\alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+c:\users\alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.csprojResolveAssemblyReference.cache
+c:\users\alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\desert_BG.xnb
+C:\Users\Alan\documents\visual studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\rock-spike.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\background.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\blank.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\gradient.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\gamefont.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\menufont.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\gameMusic.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\menuMusic.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\gameMusic.wma
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\menuMusic.wma
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\smallFont.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\laser.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Rock.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Bullet1.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Bullet2.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\UFO.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkullStone.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Spider.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Cruncher.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\kit_from_firefox.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\desert_BG.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\rock-spike.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\background.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\blank.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\gradient.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\laser.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Rock.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Bullet1.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Bullet2.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\UFO.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkullStone.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Spider.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Cruncher.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\gamefont.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\menufont.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\smallFont.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\gameMusic.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\menuMusic.xnb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\gameMusic.wma
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\menuMusic.wma
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.exe
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.pdb
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.dll
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.xml
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+I:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+I:\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.csprojResolveAssemblyReference.cache
+I:\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.exe
+I:\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.pdb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\kit_from_firefox.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\desert_BG.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\rock-spike.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\background.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\blank.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\gradient.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\laser.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Rock.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Bullet1.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Bullet2.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\UFO.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\SkullStone.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Spider.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\Cruncher.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\gamefont.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\menufont.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\smallFont.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\gameMusic.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\menuMusic.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\gameMusic.wma
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\menuMusic.wma
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.exe
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.pdb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.dll
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.xml
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+E:\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.csprojResolveAssemblyReference.cache
+E:\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.exe
+E:\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.pdb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\black.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\bohol.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\boracay.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\binay.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\newyork.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\farm.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\yellow.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\violet.xnb
+E:\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\city.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\black.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\farm.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\yellow.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\violet.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\city.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\carrotField.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\forest.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\sea.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\FlyingBone.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\FlyingSkull.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\Content\StoneMonster.xnb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\bin\x86\Debug\WindowsGame4.pdb
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.exe
+C:\Users\Alan\Documents\Visual Studio 2015\Projects\WindowsGame4\WindowsGame4\WindowsGame4\obj\x86\Debug\WindowsGame4.pdb
