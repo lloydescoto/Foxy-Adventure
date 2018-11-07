@@ -14,3 +14,5 @@ Complete 5 Level to Win
 # Developer
 - Lloyd Escoto(Solo)
 
+# Note 
+Credit to all Assets Owner!
