@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame4", "WindowsGame4\WindowsGame4\WindowsGame4.csproj", "{21806408-7995-44C2-A05B-84420A9286AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsGame4Content", "WindowsGame4\WindowsGame4Content\WindowsGame4Content.contentproj", "{E4FC7EDA-9DFD-4068-A38A-91F855054825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21806408-7995-44C2-A05B-84420A9286AE}.Debug|x86.ActiveCfg = Debug|x86
+		{21806408-7995-44C2-A05B-84420A9286AE}.Debug|x86.Build.0 = Debug|x86
+		{21806408-7995-44C2-A05B-84420A9286AE}.Release|x86.ActiveCfg = Release|x86
+		{21806408-7995-44C2-A05B-84420A9286AE}.Release|x86.Build.0 = Release|x86
+		{E4FC7EDA-9DFD-4068-A38A-91F855054825}.Debug|x86.ActiveCfg = Debug|x86
+		{E4FC7EDA-9DFD-4068-A38A-91F855054825}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
